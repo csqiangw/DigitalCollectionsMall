@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DigitalCollectionsMall.iml" filepath="$PROJECT_DIR$/DigitalCollectionsMall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dcm-common/dcm-base/dcm-base.iml" filepath="$PROJECT_DIR$/dcm-common/dcm-base/dcm-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dcm-common/dcm-common.iml" filepath="$PROJECT_DIR$/dcm-common/dcm-common.iml" />
+    </modules>
+  </component>
+</project>
