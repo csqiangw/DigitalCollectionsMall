@@ -56,6 +56,7 @@ public class RemoteCallWrapper {
             stopWatch.start();
             response = function.apply(request);
             stopWatch.stop();
+            // isResponseCodeValid 与 isResponseValid两次校验的原因，单靠是否成功无法判断成功，因为可能因为幂等，重复校验时也是调用成功
             if (checkResponse) {
 
                 Assert.notNull(response, REMOTE_CALL_RESPONSE_IS_NULL.name());
