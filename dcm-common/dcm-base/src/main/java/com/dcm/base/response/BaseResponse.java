@@ -8,8 +8,6 @@ import java.io.Serializable;
 
 /**
  * 通用出参
- *
- * @author Hollis
  */
 @Setter
 @Getter
