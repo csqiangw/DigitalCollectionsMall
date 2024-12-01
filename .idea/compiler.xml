@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dcm-base" />
+        <module name="dcm-rpc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dcm-base" target="8" />
       <module name="dcm-common" target="8" />
+      <module name="dcm-rpc" target="8" />
       <module name="DigitalCollectionsMall" target="8" />
     </bytecodeTargetLevel>
   </component>

@@ -2,9 +2,6 @@ package com.dcm.base.utils;
 
 import com.google.common.base.CaseFormat;
 
-/**
- * @author Hollis
- */
 public class BeanNameUtils {
 
     /**

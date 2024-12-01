@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DigitalCollectionsMall.iml" filepath="$PROJECT_DIR$/DigitalCollectionsMall.iml" />
       <module fileurl="file://$PROJECT_DIR$/dcm-common/dcm-base/dcm-base.iml" filepath="$PROJECT_DIR$/dcm-common/dcm-base/dcm-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/dcm-common/dcm-common.iml" filepath="$PROJECT_DIR$/dcm-common/dcm-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dcm-common/dcm-rpc/dcm-rpc.iml" filepath="$PROJECT_DIR$/dcm-common/dcm-rpc/dcm-rpc.iml" />
     </modules>
   </component>
 </project>

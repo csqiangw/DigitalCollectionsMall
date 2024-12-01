@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>dcm-base</module>
+        <module>dcm-rpc</module>
     </modules>
 
     <properties>
